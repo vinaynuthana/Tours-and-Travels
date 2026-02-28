@@ -5,25 +5,25 @@ A responsive and interactive Tours and Travels web application developed using H
 
 🚀 Features
 
-Responsive design (Mobile + Desktop friendly)
+1.Responsive design (Mobile + Desktop friendly)
 
-Dynamic tour package listing
+2.Dynamic tour package listing
 
-Image gallery with slider
+3.Image gallery with slider
 
-Booking form with client-side validation
+4.Booking form with client-side validation
 
-Interactive navigation and smooth scrolling
+5.Interactive navigation and smooth scrolling
 
-Clean and modern UI/UX design
+6.Clean and modern UI/UX design
 
 🛠️ Technologies Used
 
-HTML5 – Structure
+1.HTML5 – Structure
 
-CSS3 – Styling & Responsive Design
+2.CSS3 – Styling & Responsive Design
 
-JavaScript – Interactivity & Form Validation
+3.JavaScript – Interactivity & Form Validation
 
 🎯 Objective
 
