@@ -3,7 +3,7 @@
 
 A responsive and interactive Tours and Travels web application developed using HTML5, CSS3, and JavaScript. This project allows users to explore travel destinations, view tour packages, and send booking inquiries through a user-friendly interface.
 
-🚀 Features
+🚀 Features :
 
 1.Responsive design (Mobile + Desktop friendly)
 
@@ -17,7 +17,7 @@ A responsive and interactive Tours and Travels web application developed using H
 
 6.Clean and modern UI/UX design
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 
 1.HTML5 – Structure
 
@@ -25,6 +25,6 @@ A responsive and interactive Tours and Travels web application developed using H
 
 3.JavaScript – Interactivity & Form Validation
 
-🎯 Objective
+🎯 Objective :
 
 The goal of this project was to strengthen front-end development skills, improve understanding of DOM manipulation, event handling, and responsive web design principles.
